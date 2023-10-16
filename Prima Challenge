@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Domenico Licciardello</title>
+</head>
+<body>
+    <div>
+    <h1>Domenico Licciardello</h1>
+    <img src="https://scontent.fblq3-1.fna.fbcdn.net/v/t39.30808-6/393384029_2500291243475124_5217882796801444185_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Xbz2LhnXSRAAX-x96uO&_nc_ht=scontent.fblq3-1.fna&oh=00_AfDzwhm-lruXAogQqxWv6vS_fDYXQEgBAGxytgnIYbiNIw&oe=65336E69" style= "width:250px"/>
+    <p>Ciao a tutti, sono Domenico, ho da poco compiuto 30 anni e spero di intraprendere una nuova avventura lavorativa grazie al corso di <span style="color:blueviolet">Epicode</span>! </p>
+    </div>
+    <div>
+    <h3>Le mie passioni sono:</h3>
+    <ul>
+        <li>Musica</li>
+        <li>Calcio</li>
+        <li>Boxe</li>
+    </ul>
+</div>
+<div>
+<h3>I miei contatti:</h3>
+<ul>
+    <li><a href="https://www.linkedin.com/in/domenico-licciardello/">LinkedIn</a></li>
+    <li><a href="https://www.instagram.com/domlicciardello/">Instagram</a></li>
+    <li>E-mail: domenico.licciardello@gmail.com</li>
+</ul>
+</div>
+</body>
+</html>
