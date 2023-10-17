@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seconda Challenge</title>
+</head>
+<body>
+    <div>
+    <h1>Iscriviti a <span style="color:blueviolet">EpicMusic</span>!</h1>
+    <img src="https://media.istockphoto.com/id/1175435360/vector/music-note-icon-vector-illustration.jpg?s=612x612&w=0&k=20&c=R7s6RR849L57bv_c7jMIFRW4H87-FjLB8sqZ08mN0OU=" style= "width:250px"/>
+    </div>
+    <div style="background-color: blueviolet;">
+    <h2><span style="color: aliceblue;">Solo per oggi zero canzoni a zero euro!</span></h2>
+    </div>
+    <h3>Inserisci i tuoi dati e clicca su iscriviti:</h3>
+    <form onsubmit="alert('Registrazione avvenuta con successo!')">
+    <div>
+        <p>Nome:</p>
+        <input type="text" placeholder="Nome"/>
+    </div>
+    <div>
+        <p>Cognome:</p>
+        <input type="text" placeholder="Cognome"/>
+    </div>
+    <div>
+        <p>E-mail:</p>
+        <input type="email" placeholder="E-mail"/>
+    </div>
+    <div>
+        <p>Password:</p>
+        <input type="password" placeholder="Password"/>
+    </div>
+    <div>
+        <p>Data Di Nascita:</p>
+        <input type="date" placeholder="Data di Nascita"/>
+    </div>
+    <div>
+        <p>Numero di Telefono:</p>
+        <input type="number" placeholder="Numero di Telefono"/>
+    </div>
+    <div>
+        <p>Preferenze Musicali:</p>
+        <input type="checkbox" placeholder="Preferenze Musicali"/> Rock
+        <input type="checkbox" placeholder="Preferenze Musicali"/> Rap
+        <input type="checkbox" placeholder="Preferenze Musicali"/> Metal
+        <input type="checkbox" placeholder="Preferenze Musicali"/> Pop
+        <input type="checkbox" placeholder="Preferenze Musicali"/> Hip Hop
+    </div>
+    <div style="background-color: blueviolet;">
+        <p><span style="color: aliceblue;">Accetto I Termini E Le Condizioni</span></p>
+        <input type="radio" placeholder="Accetto"/>
+    </div>
+    <div>
+        <button type="submit">Iscriviti!</button>
+    </div>
+</form>
+</body>
+</html>
